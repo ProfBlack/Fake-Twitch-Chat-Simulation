@@ -20,7 +20,7 @@
 
     ```bash
     git clone https://github.com/harsizcool/fake-twitch-chat-simulation.git
-    cd fake-twitchly
+    cd fake-twitch-chat-simulation
     ```
 
 2. Open `index.html` in your browser.
