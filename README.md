@@ -19,7 +19,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/fake-twitchly.git
+    git clone https://github.com/harsizcool/fake-twitch-chat-simulation.git
     cd fake-twitchly
     ```
 
