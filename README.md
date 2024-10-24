@@ -10,9 +10,11 @@
 - **Configurable Chat Speed:** Easily adjust chat speed intervals in the config.
 - **Notification System:** A notification appears when the chat starts.
 
-## Demo
+## Demo Messages For You TO use:
 
-![Fake Twitchly Demo](demo.gif)
+https://pastebin.com/jncVSNGA -- 🧑 Users (generated with AI)
+https://pastebin.com/hhGYGfqP -- 🤑 Messages (generated with random message generators)
+
 
 ## Installation
 
@@ -57,3 +59,14 @@ const config = {
     randomColors: ['#FF5733', '#33FF57', '#3375FF'], // Array of random colors for usernames
     allowedStickers: ['🔥', '😂', '👍', '💯', '🎉'], // Allowed stickers in messages
 };
+
+
+```
+
+## Recommended Settings:
+
+- To get that fast twitch chat feel, set your chatspeedMin and Max to (120 - 250)
+
+- to get a slower feel, set it to (404 - 1200)
+
+- to get an XQC level fast chat set it to (30 - 70)
