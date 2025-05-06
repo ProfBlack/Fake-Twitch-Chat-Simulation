@@ -1,7 +1,7 @@
 // Configuration Section
 const config = {
-    chatSpeedMin: 80, // Minimum chat message interval in milliseconds (1 second)
-    chatSpeedMax: 250, // Maximum chat message interval in milliseconds (4 seconds)
+    chatSpeedMin: 40, // Minimum chat message interval in milliseconds (1 second)
+    chatSpeedMax: 140, // Maximum chat message interval in milliseconds (4 seconds)
     maxMessagesDisplayed: 100, // Maximum number of messages displayed in the chat box before clearing
     chatBoxSelector: '#chat-box', // Chat box element selector
     usernamesInputSelector: '#usernames-input', // Usernames input selector
@@ -10,7 +10,7 @@ const config = {
     notificationSelector: '#notification', // Notification box selector
     randomColors: ['#FF5733', '#33FF57', '#3375FF', '#FF33B8', '#FFD433', '#33FFF2', '#A533FF'], // Array of random colors for usernames
     messageStyle: 'color: white;', // Style for chat messages
-    allowedStickers: ['🔥', '😂', '👍', '💯', '🎉', '🤔'], // Allowed stickers in messages
+    allowedStickers: ['🔥', '😂', '👍', '💯', '🎉', '🤔', '🤣', '🤩', '😝', '🫨', '🥵', '😮', '😲', '🥹', '😧', '😱', '💀', '💦', '👌', '🤌', '🤟', '🤘', '🤙', '🫶', '💅', '💪', '🍆'], // Allowed stickers in messages
 };
 
 let usernames = [];
