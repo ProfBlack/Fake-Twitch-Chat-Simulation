@@ -1,7 +1,7 @@
 // Configuration Section
 const config = {
-    chatSpeedMin: 5, // Minimum chat message interval in milliseconds (1 second)
-    chatSpeedMax: 70, // Maximum chat message interval in milliseconds (4 seconds)
+    chatSpeedMin: 60, // Minimum chat message interval in milliseconds (1 second)
+    chatSpeedMax: 500, // Maximum chat message interval in milliseconds (4 seconds)
     maxMessagesDisplayed: 100, // Maximum number of messages displayed in the chat box before clearing
     chatBoxSelector: '#chat-box', // Chat box element selector
     usernamesInputSelector: '#usernames-input', // Usernames input selector
